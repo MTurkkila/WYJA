@@ -1,4 +1,4 @@
-Course diary for Writing Your Journal Article
+# Course diary for Writing Your Journal Article
 
 ## Week 1
 ### My feelings about My Experience of Writing
@@ -15,7 +15,7 @@ On the positive side, once I get the writing done and I'm pleased with my text, 
 ### Common elements in My Positive Experiences of Writing
 * Getting good feedback or even praise
 * Sense of relevance or meaning for my writing
-* Rereading previous text and linking my own writing
+* Rereading previous text and liking my own writing
 
 ## Week 2
 
