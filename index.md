@@ -1,3 +1,8 @@
+---
+name: WYJA course diary
+title: null
+---
+
 # Course diary for Writing Your Journal Article
 
 ## Week 1
