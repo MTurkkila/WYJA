@@ -17,6 +17,35 @@ On the positive side, once I get the writing done and I'm pleased with my text, 
 * Sense of relevance or meaning for my writing
 * Rereading previous text and liking my own writing
 
+### Obstacles to Writing My Article
+Here are my major obstacles for my writing goals. Most are taken form the list provided by the book.
+
+|Emotional obstacles|Expected Interference|
+|---|---|
+|Not in the right mood |medium |
+|I just can't get started |medium |
+|I will write just soon as I have the time |high |
+
+|Distraction obstacles|Expected Interference|
+|---|---|
+|I get distracted by emails etc.|low |
+|Other work responsibilities are taking my time|medium |
+|I spend too much time on other tasks (programming, data analyses)|high |
+
+|Confidence obstacles|Expected Interference|
+|---|---|
+|I can't write because my ideas suck |low |
+|I'm not smart enough |low |
+|I write so slowly that I never seem to get much done |medium |
+
+### Possible Solutions to My Interruptions and Obstacles
+Before reading the solutions-webpage, here are some solutions I have used already. I usually turn of my email when writing to not get distracted and I also allow myself some time to get other things done so they do not occupy my head too much. This course is the solution for emotional obstacles and to learn new, good writing habits. I do not consider confidence major obstacle any more as I have gained more confidence with the few writing projects have done. However, the lack of confidence still raises its ugly head sometimes.
+
+[Solutions to Common Writing obstacles -webpage](https://wendybelcher.com/writing-advice/solutions-common-writing-obstacles/)
+
+So, after reading the solutions to my obstacles and some others, I think most solutions have already been discussed within the book or I have used or at least tried them. Still it is great to hear (read?) that I'm not the only one with obstacles and problems with writing. Main solutions I intend to adopt is to try writing even when I'm not in the right mood and trust that feelings will follow.
+
+
 ## Week 2
 
 ## Week 3
