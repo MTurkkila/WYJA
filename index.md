@@ -45,7 +45,15 @@ Before reading the solutions-webpage, here are some solutions I have used alread
 
 So, after reading the solutions to my obstacles and some others, I think most solutions have already been discussed within the book or I have used or at least tried them. Still it is great to hear (read?) that I'm not the only one with obstacles and problems with writing. Main solutions I intend to adopt is to try writing even when I'm not in the right mood and trust that feelings will follow.
 
-Not much to say about _day 3_ as I have already chosen my article. However, it did remind me that I have couple of other drafts or ideas I could develop into articles later. Perhaps while I'm writing my dissertation summary or while it's being reviewed.
+I've chosen SciQua track with revision/drafting pathway and my article will be experimental. I plan to write 20 hours a week and plan to submit by the end of the year.
+
+Not much to say about _day_ 3 as I have already chosen my article. However, it did remind me that I have couple of other drafts or ideas I could develop into articles later. Perhaps while I'm writing my dissertation summary or while it's being reviewed.
+
+Day 4, I'll need more drafting than just revision.
+
+Day 5, I have and will use multiple spaces. More important are my noise cancelling headphones and good ambient or instrumental music. Also some metal to wake me up sometimes.
+For this paper I'll be using Latex on Overleaf. That take care of citations (along with Mendeley) and file backups. Additionally, I regularly take manual backups.
+Co-authorship is quite clear with my supervisors.
 
 ## Week 2
 
