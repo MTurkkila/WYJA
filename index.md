@@ -1,6 +1,6 @@
 # Course diary for Writing Your Journal Article
 
-## Week 1
+## Week 1 - Deciding My Plan for Writing
 ### My feelings about My Experience of Writing
 For me writing has always been challenging and pinpointing why exactly is difficult. It might be some kind of insecurity in a sense that if I don't write, I don't have to send it for supervisors or referees and I don't get negative feedback or something. Therefore, I really need time to get myself into right headspace. Once I get started, I get the work done. However, this usually results in binge writing in weekends that is not sustainable and leads to more negative feelings about writing.
 
@@ -55,7 +55,14 @@ Day 5, I have and will use multiple spaces. More important are my noise cancelli
 For this paper I'll be using Latex on Overleaf. That take care of citations (along with Mendeley) and file backups. Additionally, I regularly take manual backups.
 Co-authorship is quite clear with my supervisors.
 
-## Week 2
+### Some Reflection
+This book speaks to me and I recognize myself in many examples of binge writers and bad writing habits. Previously I have done most of my writing only when I had plenty of time and was jealous for people who could just write without first takin an hour or two to get into right mindset. I have hoped to learn to write in smaller chunks and it is great to see that that is the aim of this book and course. Thus, I feel like this course will be tremendously beneficial for me.
+
+For some time now I have thought that my ideal (work)day would include reading, writing and coding (programming/data analysis/scientific computing). With this course I hope to get the confidence to arrange my days to be as close as possible to this ideal. Maybe 15 to 60 minutes each would suffice. I just need to accept and internalize it.
+
+## Week 2: Advancing My Argument
+### What is new about my article
+My third article will continue the work done in my previous article in which I developed method to construct new materialist network data from video data. The new article will quantitatively analyze the constructed networks and correlate different networks or network measures. This combination of new materialist research and network-based approaches is new and the results quantitative roles and contributions of human and non-human actors. Thus, my methods are new and yield new type of results and insights to learning phenomenon with novel theoretical framework.
 
 ## Week 3
 
