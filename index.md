@@ -64,6 +64,23 @@ For some time now I have thought that my ideal (work)day would include reading, 
 ### What is new about my article
 My third article will continue the work done in my previous article in which I developed method to construct new materialist network data from video data. The new article will quantitatively analyze the constructed networks and correlate different networks or network measures. This combination of new materialist research and network-based approaches is new and the results quantitative roles and contributions of human and non-human actors. Thus, my methods are new and yield new type of results and insights to learning phenomenon with novel theoretical framework.
 
+### What is my argument?
+It is rather difficult to formulate  my argument as I'm still missing my research results. Maybe it will be something like _Roles of human and non-human actors differ by X_ or _Roles of human and non-human actors correlate with actors contributions to overall knowledge with X_ or something like that.
+
+*Argument tests:*
+* I don't think my argument passes the agree/disagree test
+* I don't think my argument passes the gut test
+* My argument doesn't pass the immediate dispute test either
+
+I'm quite sure already that my argument is not an argument and after reading all other test it is quite clear that my arguments are observation or variable statement. Reshaping my possible argument to _Reciprocal roles between human and non-human actors increase actors' contributions to the overall knowledge during student investigations in upper secondary school physics_
+
+After reading the rest of the chapter I don' think  I have argument crisis even tough I don't yet have an actual argument. Similarly, it will be easy for me to consider opposing views or rather state the limitations of my research as a basically have a case study with very limited sample size.
+
+Overall, this chapter about argument was good reading although some examples and such were hard to understand as my background and thinking is so heavily influenced by natural sciences.
+
+And finally, my calendar from week 1
+!(wyja_week1_cal)
+
 ## Week 3
 
 ## Week 4
