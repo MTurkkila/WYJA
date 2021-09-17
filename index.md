@@ -79,7 +79,7 @@ After reading the rest of the chapter I don' think  I have argument crisis even 
 Overall, this chapter about argument was good reading although some examples and such were hard to understand as my background and thinking is so heavily influenced by natural sciences.
 
 And finally, my calendar from week 1
-!(https://github.com/MTurkkila/WYJA/blob/main/wyja_week1_cal.jpg)
+![calendar from week1](https://github.com/MTurkkila/WYJA/blob/main/wyja_week1_cal.jpg)
 
 ## Week 3
 
