@@ -81,6 +81,8 @@ Overall, this chapter about argument was good reading although some examples and
 And finally, my calendar from week 1
 ![calendar from week1](wyja_week1_cal.jpg)
 
+Not pretty and not really accurate, but I'm really bad at this kind of time tracking. As this was not really accurate I did not fill in total minutes and tasks completed, but overall I think I spent good amount of time on this work book and on my articles. Also, I did complete most if not all tasks from the work book. Ultimately, tracking my time was useful and really made me think on what I use my time on. And also helped with procrastination.
+
 ## Week 3
 
 ## Week 4
