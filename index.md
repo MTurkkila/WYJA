@@ -90,6 +90,14 @@ I'm still learning to write everyday, but scheduling really helps. I don't yet k
 
 Similarly, writing in small chunks still feels somewhat impossible and impractical. However, yesterday I did manage to draft (very roughly) an abstract for seminar proposal in about twenty minutes instead of procrastinating and wasting my time by just waiting for my friend for lunch. Maybe, there is still hope for me.
 
+### What I Learned by Studying Recent Abstracts
+I decided to read recent abstracts from the journal I have planned to submit my article. The journal has structured abstracts with subheadings. It seems like that some variation is allowed with the subheadings, but most often the subheading are *Background, Purpose, Sample, Design and method, Results* and *Conclusion*. Actually, I checked the instructions to authors and they state these subheadings, but for some reasons couple of abstracts omitted one or two of these.
+
+Overall, I think the structured are nice. It makes it really easy to gauge if the article is relevant for my own research. Furthermore, it is easy to identify the relevant section (background, methods or conclusion). Thinking back on the tens or even hundreds traditional abstracts evaluating the relevance is sometimes rather difficult and required delving into the body of the text. Especially, as some abstracts seem to be vague on purpose or the the 150-200 word limit is just not enough sometimes.
+
+I ended up reading about fifteen abstracts and while the structured format made it easy and most abstracts seemed good there was few not so good as well. Even if not particularly bad. For me this indicates that even if the structured format helps and guides with writing the abstract, it is still need some thought and effort to make the abstract to stand out.
+
+
 ## Week 4
 
 ## Week 5
