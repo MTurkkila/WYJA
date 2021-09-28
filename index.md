@@ -85,6 +85,11 @@ Not pretty and not really accurate, but I'm really bad at this kind of time trac
 
 ## Week 3
 
+### Lessons to Be Learned from My Past Week's Writing experience
+I'm still learning to write everyday, but scheduling really helps. I don't yet know what would be my optimal time for writing. Mornings I like to spend on reading that might or might not directly relate to my writing task. Also, sometimes afternoon I'm just too tired to engage in writing. Maybe I should try to focus on my writing before or right after lunch especially on days I don't have meetings. 
+
+Similarly, writing in small chunks still feels somewhat impossible and impractical. However, yesterday I did manage to draft (very roughly) an abstract for seminar proposal in about twenty minutes instead of procrastinating and wasting my time by just waiting for my friend for lunch. Maybe, there is still hope for me.
+
 ## Week 4
 
 ## Week 5
