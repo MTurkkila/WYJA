@@ -100,7 +100,7 @@ I ended up reading about fifteen abstracts and while the structured format made 
 ### What I Learned by Reading Strong Articles / Articles to Cite in My Article
 Unfotunately, none of the abstracts I read indicated particularly strong articles or articles I could cite. However, I had two articles waiting to be read that I will cite in my own article. Luckily, I also felt that the other was also strong.
 
-The first article, * Networks in the Social Sciences: Comparing Actor-Network Theory and Social Network Analysis* by Vicsek et al., (2016), was easy to read and very engaging. The text was clear and concise with the argument of the article was easy to follow. I'd consider this article strong even with the somewhat marginal topic.
+The first article, *Networks in the Social Sciences: Comparing Actor-Network Theory and Social Network Analysis* by Vicsek et al., (2016), was easy to read and very engaging. The text was clear and concise with the argument of the article was easy to follow. I'd consider this article strong even with the somewhat marginal topic.
 
 The second article, *A Control Analysis Perpective on Katz Centrality* by Sharkey (2017), was more difficult to understand altough it was very short and exact. This is due to the fact that the article basically just defines new centrality measure for networks and I don't have enough understanding or mathematical competence to easily follow the text. Or rather I don't yet quite understand how to utilize this centrality in my own analyses as suggested by one of me supervisors. I need to do some additional reading and thinking, but this is a starting point.
 
