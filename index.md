@@ -113,7 +113,7 @@ I am confident that together my three supervisors have comprehensive knowledge o
 
 For my current article, we have chosen the *Research in Science & Technological Education* by *Taylor & Francis*. We choose this as the topic fits the journal and we now that the editor is interested in my research.
 
-The journal has impact factor of 1.540 )[all metrics](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=crst20))
+The journal has impact factor of 1.540 ([all metrics](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=crst20))
 and Jufo level 1 ([jufo page](https://jfp.csc.fi/#!PublicationInformationView/id/66131)). The links provide all relevant information except for acceptance rate or average time for rom submission to first decision and I couldn't find that information elsewhere on the journal's website.
 
 ## Week 5
