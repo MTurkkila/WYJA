@@ -107,14 +107,14 @@ The second article, *A Control Analysis Perpective on Katz Centrality* by Sharke
 So, what did I learn by reading these articles? It really depends on my own knowledge and understranding how I feel about an article. I'm reminded by what my supervisor said: *"There is no point reading something that you understand the first time."* This was in reference to books and particularly on philosophy. But I think it fits also to journal articles. The first articel I read was nice and easy, but I did not really learn that much by reading it. I could have just read the abstract and understand the authors' argument and even cite it (altough, I might feel unethical doing this) and use my time trying to understand and learn from the second article.
 
 ## Week 4: Selecting a Journal
-I must admit I only skimmed the text through this time. Partly because I have already chosen the journal for may article and also because I need to focus more on trying to understand the data analysis methods so that I can actually do the analyses. However, reading the chapter was interesting and I think that doing this kind of rigorous evaluation of journals could be beneficial at some point.
+I must admit I only skimmed the text through this time. Partly because I have already chosen the journal for my article and also because I need to focus more on trying to understand the data analysis methods so that I can actually do the analyses. However, reading the chapter was interesting and I think that doing this kind of rigorous evaluation of journals could be beneficial at some point.
 
 I am confident that together my three supervisors have comprehensive knowledge of journals in my field and adjacent fields as well.  We have on several occasions discussed about relevant journals to our research and about the quality of said journals. For example, when deciding the journal for my previous article. We also asked other professors for suggestions after my seminar presentation.
 
-For my current article, we have chosen the *Research in Science & Technological Education* by *Taylor & Francis*. We choose this as the topic fits the journal and we now that the editor is interested in my research.
+For my current article, we have chosen the [Research in Science & Technological Education](https://www.tandfonline.com/toc/crst20/current) by *Taylor & Francis*. We choose this as the topic fits the journal and we now that the editor is interested in my research.
 
 The journal has impact factor of 1.540 ([all metrics](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=crst20))
-and Jufo level 1 ([jufo page](https://jfp.csc.fi/#!PublicationInformationView/id/66131)). The links provide all relevant information except for acceptance rate or average time for rom submission to first decision and I couldn't find that information elsewhere on the journal's website.
+and jufo level 1 ([jufo page](https://jfp.csc.fi/#!PublicationInformationView/id/66131)). The links provide all relevant information except for acceptance rate or average time for from submission to first decision and I couldn't find that information elsewhere on the journal's website.
 
 ## Week 5
 
