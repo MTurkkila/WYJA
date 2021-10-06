@@ -98,7 +98,15 @@ Overall, I think the structured are nice. It makes it really easy to gauge if th
 I ended up reading about fifteen abstracts and while the structured format made it easy and most abstracts seemed good there was few not so good as well. Even if not particularly bad. For me this indicates that even if the structured format helps and guides with writing the abstract, it is still need some thought and effort to make the abstract to stand out.
 
 
-## Week 4
+## Week 4: Selecting a Journal
+I must admit I only skimmed the text through this time. Partly because I have already chosen the journal for may article and also because I need to focus more on trying to understand the data analysis methods so that I can actually do the analyses. However, reading the chapter was interesting and I think that doing this kind of rigorous evaluation of journals could be beneficial at some point.
+
+I am confident that together my three supervisors have comprehensive knowledge of journals in my field and adjacent fields as well.  We have on several occasions discussed about relevant journals to our research and about the quality of said journals. For example, when deciding the journal for my previous article. We also asked other professors for suggestions after my seminar presentation.
+
+For my current article, we have chosen the *Research in Science & Technological Education* by *Taylor & Francis*. We choose this as the topic fits the journal and we now that the editor is interested in my research.
+
+The journal has impact factor of 1.540 )[all metrics](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=crst20))
+and Jufo level 1 ([jufo page](https://jfp.csc.fi/#!PublicationInformationView/id/66131)). The links provide all relevant information except for acceptance rate or average time for rom submission to first decision and I couldn't find that information elsewhere on the journal's website.
 
 ## Week 5
 
