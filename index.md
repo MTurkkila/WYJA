@@ -120,11 +120,17 @@ and jufo level 1 ([jufo page](https://jfp.csc.fi/#!PublicationInformationView/id
 Positive Message to Myself about Writing: You can do it! Even if you sometimes don't feel like it. just trust yourself.
 
 I have experimental data as primary source. I think I have enough contextual literature, but I will need more methodological an theoretical literarture as I continue with my network analyses. I don't know about related literature. What even is the difference between contextual an related literature. I don't think anybody discusses the exact same topic or argument. Hmm.. . Maybe in sciences contextual and related is almost same.
-No derivatite documents cited.
+No derivative documents cited.
 
 I might need more citations from the journal, but other than that I don't really have any of the common mistakes.
 
 I think I should develope better and more systematic method for note taking, so that I dont accidentally paraphrase.
+
+I always need to get better grasp of different theories in my field, but maybe not now for this paper.
+
+I don't think I'll need more related literature.
+
+My entrypoint is addressing a methodological gap and extending previous work by combining theoretical frame and analysis method not used previously.
 
 ## Week 6
 
