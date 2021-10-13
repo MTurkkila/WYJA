@@ -119,18 +119,20 @@ and jufo level 1 ([jufo page](https://jfp.csc.fi/#!PublicationInformationView/id
 ## Week 5: Refining Your Works Cited
 Positive Message to Myself about Writing: You can do it! Even if you sometimes don't feel like it. just trust yourself.
 
-I have experimental data as primary source. I think I have enough contextual literature, but I will need more methodological an theoretical literarture as I continue with my network analyses. I don't know about related literature. What even is the difference between contextual an related literature. I don't think anybody discusses the exact same topic or argument. Hmm.. . Maybe in sciences contextual and related is almost same.
+I have experimental data as primary source. I think I have enough contextual literature, but I will need more methodological and theoretical literature as I continue with my network analyses. I don't know about related literature. What even is the difference between contextual an related literature. I don't think anybody discusses the exact same topic or argument. Hmm.. . Maybe in sciences contextual and related is almost same.
 No derivative documents cited.
 
 I might need more citations from the journal, but other than that I don't really have any of the common mistakes.
 
-I think I should develope better and more systematic method for note taking, so that I dont accidentally paraphrase.
+I think I should develop better and more systematic method for note taking, so that I don't accidentally paraphrase.
 
 I always need to get better grasp of different theories in my field, but maybe not now for this paper.
 
 I don't think I'll need more related literature.
 
-My entrypoint is addressing a methodological gap and extending previous work by combining theoretical frame and analysis method not used previously.
+My entry point is addressing a methodological gap and extending previous work by combining theoretical frame and analysis method not used previously.
+
+The text about citation values and biases was quite interesting. Looking forward for the discussion about these as this is something I really hasn't considered before. I actually think that currently education sciences are too author centric. Therefore, I don't like the app-style citations and much more prefer number based formats. Although, I agree that sometimes the app-style makes it easier to discuss and identify some works. Anyhow, maybe this citation values is more important in humanities and especially relevant in the States.
 
 ## Week 6
 
