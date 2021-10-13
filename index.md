@@ -117,9 +117,9 @@ The journal has impact factor of 1.540 ([all metrics](https://www.tandfonline.co
 and jufo level 1 ([jufo page](https://jfp.csc.fi/#!PublicationInformationView/id/66131)). The links provide all relevant information except for acceptance rate or average time for from submission to first decision and I couldn't find that information elsewhere on the journal's website.
 
 ## Week 5: Refining Your Works Cited
-Positive Message to Myself about Writing: You can do it! Even if you sometimes don't feel like it. just trust yourself.
+*Positive Message to Myself about Writing:* You can do it! Even if you sometimes don't feel like it. just trust yourself.
 
-I have experimental data as primary source. I think I have enough contextual literature, but I will need more methodological and theoretical literature as I continue with my network analyses. I don't know about related literature. What even is the difference between contextual an related literature. I don't think anybody discusses the exact same topic or argument. Hmm.. . Maybe in sciences contextual and related is almost same.
+I have experimental data as primary source. I think I have enough contextual literature, but I will need more methodological and theoretical literature as I continue with my network analyses. I don't know about related literature. What even is the difference between contextual and related literature. I don't think anybody discusses the exact same topic or argument. Hmm.. . Maybe in sciences contextual and related is almost same.
 No derivative documents cited.
 
 I might need more citations from the journal, but other than that I don't really have any of the common mistakes.
@@ -132,7 +132,7 @@ I don't think I'll need more related literature.
 
 My entry point is addressing a methodological gap and extending previous work by combining theoretical frame and analysis method not used previously.
 
-The text about citation values and biases was quite interesting. Looking forward for the discussion about these as this is something I really hasn't considered before. I actually think that currently education sciences are too author centric. Therefore, I don't like the app-style citations and much more prefer number based formats. Although, I agree that sometimes the app-style makes it easier to discuss and identify some works. Anyhow, maybe this citation values is more important in humanities and especially relevant in the States.
+The text about citation values and biases was quite interesting. Looking forward for the discussion about these as this is something I really hasn't considered before. I actually think that currently education sciences are too author centric. Therefore, I don't like the apa-style citations and much more prefer number based formats. Although, I agree that sometimes the apa-style makes it easier to discuss and identify some works. Anyhow, maybe this citation values is more important in humanities and especially relevant in the States.
 
 ## Week 6
 
