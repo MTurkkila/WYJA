@@ -134,7 +134,11 @@ My entry point is addressing a methodological gap and extending previous work by
 
 The text about citation values and biases was quite interesting. Looking forward for the discussion about these as this is something I really hasn't considered before. I actually think that currently education sciences are too author centric. Therefore, I don't like the apa-style citations and much more prefer number based formats. Although, I agree that sometimes the apa-style makes it easier to discuss and identify some works. Anyhow, maybe this citation values is more important in humanities and especially relevant in the States.
 
-## Week 6
+## Week 6: Crafting Your Claims for Significance
+
+I think I might have subject-based claim for significance as I'm first to do this kind of reserarch, but it is not clearly stated in the article. Not really audience-, literature- nor practice-based. Certainly method-based claim as it is new method within the theoretical framework I'm using and thus also the finding could be new. I maybe could also craft field-, theory- or implications-based claims, but they would not be so honest or relevant.
+
+Day 1, reading workboo 60+ minutes.
 
 ## Week 7
 
