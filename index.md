@@ -139,6 +139,7 @@ The text about citation values and biases was quite interesting. Looking forward
 I think I might have subject-based claim for significance as I'm first to do this kind of reserarch, but it is not clearly stated in the article. Not really audience-, literature- nor practice-based. Certainly method-based claim as it is new method within the theoretical framework I'm using and thus also the finding could be new. I maybe could also craft field-, theory- or implications-based claims, but they would not be so honest or relevant.
 
 **My three claims for Significance**
+
 	1. Subject-based: The materials students use during science lesson investigations are not commonly considered explicitly as actors in the knowledge construction and thus the role of materials have not been adequately researched.
 	2. Method-based: Network analysis based approaches allow quantitave research within the new materialist frameworks.
 	3. Findings based: Once I have the findings
