@@ -144,7 +144,16 @@ I think I might have subject-based claim for significance as I'm first to do thi
 2. Method-based: Network analysis based approaches allow quantitative research within the new materialist frameworks.
 3. Findings based: Once I have the findings
 
-## Week 7
+## Week 7: Analyzing Your Evidence
+My data is not strictly qualitative or quantitative, but for this article it will be mainly quantitive. My data is networks constructed from video sample of upper secondary school physics lessen where group of students make simple investigation. The construction of these networks relied on some qualitative methods, but I'd argue the construction of the networks was actua post-qualitative. In any case, currently I'm analyzing those networks i.e. computing network measures and thus I  will have quantitative evidence.
+
+Again, as I'm still doing the analysis and I do not yet have the evidence, so it is impossible to check the proportions of evidence to interpretation. However, I'm sure I will have good amount of evidence and I will also have good visualizations for my evidence. At this point I'm not sure if my evidence will have some limitations.
+
+My evidence will be somewhat statistically insignificant, but my research is basically a case study. Methods are not poor. There will be no causal claims. There should not be any proxy errors or comparability issues. Relevance and placement cannot be assessed at the moment. 
+
+Similarly, quality of interpretation cannot be assessed as I do not yet have interpretations. Hopefully I will get the analyses done next week so I can start working on and writing the interpretations. I will then get back to this chapter and hope I can write my interpretations within a week or two.
+
+
 
 ## Week 8
 
