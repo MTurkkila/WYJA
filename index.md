@@ -160,7 +160,7 @@ I do not need to obtain permission for using others' images or texts.
 #### Revising Your SciQua Methods
 Describe your sample and sampling procedure: To do
 
-Describe your measurument instrument: To do
+Describe your measurement instrument: To do
 
 Describe your research context: To do
 
@@ -172,7 +172,7 @@ Don't give statistics tutorial: Not applicable
 
 Don't mix your results: To do
 
-Match Metods subheads to Results subheads: Done
+Match Methods subheads to Results subheads: Done
 
 Watch repetition: To do
 
@@ -181,13 +181,13 @@ Check with your journal for instructions: To do
 Keep it short: To Do
 
 #### Revising Your SciQua Results
-At the time of reading I'm still working analyzing the network and have only some preliminary results. Furthermore, I still need to choose if I need more analyses/results or should I discard some results. I'll be using graphs and tables, but I am confident I can design these properly. Tables and graphs showing results are highlighted in physics since secondary school and I have interest in data visualization so I think the results section will be the easiest overall. Altough, of course the section will need to be checked and revised after the first draft is done. 
+At the time of reading I'm still working analyzing the network and have only some preliminary results. Furthermore, I still need to choose if I need more analyses/results or should I discard some results. I'll be using graphs and tables, but I am confident I can design these properly. Tables and graphs showing results are highlighted in physics since secondary school and I have interest in data visualization so I think the results section will be the easiest overall. Although, of course the section will need to be checked and revised after the first draft is done. 
 
 #### Revising Your SciQua Discussion
 These are all to do/not applicable as I have yet to write single word of discussion. However, most of these points are more or less apparent or rather I know these already. Though, again, it will be good to go through these explicitly after I have written first draft of the discussion.
 
 ### Revising Your Presentation of Evidence in Illustrations
-I think this goes with the basics of graphs and figures I know comprehensively. For most part these are not applicable as I won't be using photographs or illustartions other than the results. 
+I think this goes with the basics of graphs and figures I know comprehensively. For most part these are not applicable as I won't be using photographs or illustrations other than the results. 
 
 ## Week 9
 
