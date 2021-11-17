@@ -189,7 +189,26 @@ These are all to do/not applicable as I have yet to write single word of discuss
 ### Revising Your Presentation of Evidence in Illustrations
 I think this goes with the basics of graphs and figures I know comprehensively. For most part these are not applicable as I won't be using photographs or illustrations other than the results. 
 
-## Week 9
+## Week 9: Strengthening Your Structure
+Does my article contain more than descriptive or sequence macrostructure: Yes
+
+Would my article benefit from using more of one of these orders: Well, yes, as my article has rather new ideas to start with the familiar, the easy and the accepted when describing what was done and why.
+
+Would my article benefit from attending more to Hayot's Uneven U structure? As interesting as the Uneven U is,  don't see it useful for my article.
+
+Structure signals not really applicable at the moment, but I do have quite good subheadings.
+
+Lab reports are big part oh physics education and they do follow the IMRAD structure quite closely even tough are bit different than journal articles. Thus, there is sometimes the possibility that the report structure might creep into the articles, but I don't think that the case for the paper I'm currently writing.
+
+I have IMRAD structure and certainly not synaptic macrostructure.
+
+Flowchart outline speaks to me and I might try that.
+
+Flowchart of Bruun, J., Lindahl, M., & Linder, C. (2019). Network analysis and qualitative discourse analysis of a classroom group discussion. *International Journal of Research and Method in Education*, 42(3), 317–339. https://doi.org/10.1080/1743727X.2018.1496414
+
+![flowchart](WYJA_week9.jpg)
+
+I had good discussion with one of my supervisor about my preliminary results. One idea we discussed was to, again, split the content of the paper into two different journal articles. One more focused on the detailed network analysis of the information flow networks and thus only using those networks. The other one could use all networks and focus more on the learning phenomena and showing what insight each network provide and how these differ. The papers would have different target audiences and arguments. I'm quite interested in this idea and it might bring some clarity to my work and make constructing the arguments and claims for significance more concise. For these reasons, I have not made postdraft outline of my article. Instead I have used my time to think the possible structure and arguments of the two possible papers. The other paper would have very clear IMRAD structure and the other could follow the current structure I had in mind for the original paper with some minor changes. 
 
 ## Week 10
 
