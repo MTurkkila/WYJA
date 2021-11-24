@@ -211,15 +211,16 @@ Flowchart of Bruun, J., Lindahl, M., & Linder, C. (2019). Network analysis and q
 I had good discussion with one of my supervisor about my preliminary results. One idea we discussed was to, again, split the content of the paper into two different journal articles. One more focused on the detailed network analysis of the information flow networks and thus only using those networks. The other one could use all networks and focus more on the learning phenomena and showing what insight each network provide and how these differ. The papers would have different target audiences and arguments. I'm quite interested in this idea and it might bring some clarity to my work and make constructing the arguments and claims for significance more concise. For these reasons, I have not made postdraft outline of my article. Instead I have used my time to think the possible structure and arguments of the two possible papers. The other paper would have very clear IMRAD structure and the other could follow the current structure I had in mind for the original paper with some minor changes. 
 
 ## Week 10: Opening and Concluding Your Article
-As I wrote last week I might split my article into two. This week I have been thinking more about this and it's starting to be more and more appealing. Thus, I have been working on the structures and preliminary arguments for the two articles. I actually started drafting the first one. I still need to discuss this issue together with my supervisors, but I wan't develop these ideas bit further before that. If we decide to not to write two articles, the text that I'm currently working on can easily be combined back to one article.
+As I wrote last week I might split my article into two. This week I have been thinking more about this and it’s starting to be more and more appealing. Thus, I have been working on the structures and preliminary arguments for the two articles. I actually started drafting the first one. I still need to discuss this issue together with my supervisors, but I want develop these ideas bit further before that. If we decide to not to write two articles, the text that I’m currently working on can easily be combined back to one article.
 
-In any case, for this reason it didn't feel purpuseful to fill in / answer the text boxes about the title or openings in the Belcher book. However, I did read the chapter and I think it was propably the most interesting and useful as opening an article is the thing I struggle the most. The different openings with the examples are helpfull and something I could also use in future as well. I might need to buy this book, if I ever find it at a good price.
+In any case, for this reason it didn’t feel purposeful to fill in / answer the text boxes about the title or openings in the Belcher book. However, I did read the chapter and I think it was probably the most interesting and useful as opening an article is the thing I struggle the most. The different openings with the examples are helpful and something I could also use in future as well. I might need to buy this book, if I ever find it at a good price.
 
-The text about name was interesting and something that I hadn't really considered before. Fortunately, I'm priviliged with uncommon name so I don't feel I need to change it or even include my middle initials. Also, I don't see situation were I would legally need to change my name in the future.
+The text about name was interesting and something that I hadn’t really considered before. Fortunately, I’m privileged with uncommon name so I don’t feel I need to change it or even include my middle initials. Also, I don’t see situation were I would legally need to change my name in the future.
 
-Fianlly, I did try to come up with titles for the possible two articles based on Belcher's advice:
-1. Roles and importances of human and non-human actors in information flow networks: new materialist investigation of knowledge construction in  school science
-2. Material-dialogic engagements and the material-dialogic space in students' investigations durign upper secondary physics: a network analysis approach
+Finally, I did try to come up with titles for the possible two articles based on Belcher’s advice:
+
+1. Roles and importance of human and non-human actors in information flow networks: new materialist investigation of knowledge construction in school science
+2. Material-dialogic engagements and the material-dialogic space in students’ investigations during upper secondary physics: a network analysis approach
 
 
 ## Week 11
