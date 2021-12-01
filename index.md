@@ -223,7 +223,8 @@ Finally, I did try to come up with titles for the possible two articles based on
 2. Material-dialogic engagements and the material-dialogic space in students’ investigations during upper secondary physics: a network analysis approach
 
 
-## Week 11
+## Week 11: Editing Your Sentences
+As I'm still drafting my new version of articles, editing sentences is not yet feasible. However, the chapter was interesting and provided good new information about finalising article text. I had never really considered the final editing to be this detailed and at first it seemed too cumbersome and time consuming. Luckily, Belcher acknowledged this and had a system for doing it computationally. I tested the Python-script for tex-files and it worked perfectly. I'm sure I will use this in the future as well.
 
 ## Week 12
 
