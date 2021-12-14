@@ -224,9 +224,11 @@ Finally, I did try to come up with titles for the possible two articles based on
 
 
 ## Week 11: Editing Your Sentences
-As I'm still drafting my new version of articles, editing sentences is not yet feasible. However, the chapter was interesting and provided good new information about finalising article text. I had never really considered the final editing to be this detailed and at first it seemed too cumbersome and time consuming. Luckily, Belcher acknowledged this and had a system for doing it computationally. I tested the Python-script for tex-files and it worked perfectly. I'm sure I will use this in the future as well.
+As I'm still drafting my new version of articles, editing sentences is not yet feasible. However, the chapter was interesting and provided good new information about finalizing article text. I had never really considered the final editing to be this detailed and at first it seemed too cumbersome and time consuming. Luckily, Belcher acknowledged this and had a system for doing it computationally. I tested the Python-script for tex-files and it worked perfectly. I'm sure I will use this in the future as well.
 
-## Week 12
+## Week 12: Sending Your Article
+Unfortunately I'm nowhere close to submitting my article. As the article was split into two there has been some structural and theoretical changes. I'm quite happy with the changes as they make the articles more coherent and focused. Also, more publications is also good. The first one is progressing nicely and results are done with only some refinements to the visualizations. I still need to write better introduction, some part of methods and discussion, but then I'm ready with the first draft. The second is mostly just the structure and some bullet points. I will later decide if it will be part of my thesis or not. Of course, after discussion with my supervisors.
 
+In any case, there is no point with the submission checklist at this time. However, I might copy the checklist for future use as it seems quite useful. Similarly, I feel like this course has been good overall. I was somewhat unsure at the beginning if this course was right for me. Mainly as I had already two articles published and there was lot of things I already knew. As the course progressed, I noticed more and more useful tidbits and especially on the last few weeks there has been several good resources in the book that I could also use in the future. Those might be worth the price of the book. I was also pondering of creating online version of the checklist (with Belcher's permission) but it seems like  one of the million more or less useful ideas that I'll never actually implement. All in all, I have positive feelings for the course and I'm glad I was able to participate.s
 
 
